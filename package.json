@@ -1,5 +1,5 @@
 {
-  "name": "@zhaow-de/puppeteer-cluster",
+  "name": "@johnitvn/puppeteer-cluster-plus",
   "version": "0.32.0",
   "description": "Cluster management for puppeteer",
   "main": "dist/index.js",
